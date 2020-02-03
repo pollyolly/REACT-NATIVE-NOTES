@@ -1,3 +1,7 @@
+Initialize new React Native Project
+```
+npx react-native init AwesomeProject --version X.XX.X
+```
 Running React Native
 ```
 npx react-native run-android
