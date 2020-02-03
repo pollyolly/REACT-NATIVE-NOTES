@@ -13,7 +13,10 @@ Running and reset cache
 ```
 npx react-native start --reset-cache
 ```
-
+React Native Auto Linking
+```
+npx react-native link
+```
 Fix: Error type 3 Error: Activity class {} does not exist
 *uninstall hidden app
 ```
