@@ -1,5 +1,5 @@
 ### [TypeError: Network request failed]
 ```
-<application
-android:usesCleartextTraffic="true"
+android/gradle.properties
+FLIPPER_VERSION=0.52.1
 ```
