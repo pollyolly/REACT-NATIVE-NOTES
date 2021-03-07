@@ -10,3 +10,8 @@
   - [x] JSX
   - [x] Props
   - [x] State
+- [x] Handling Text Input
+- [ ] Using ScrollView
+- [ ] Using ListView
+- [x] Troubleshooting
+- [ ] Platform Specific Code
