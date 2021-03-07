@@ -3,4 +3,6 @@
   - [ ] <Image>
   - [ ] <ScrollView>
   - [x] <TextInput>
-- [x] Testing
+- [x] First Component
+  - [] Function Component
+  - [x] Class Component
