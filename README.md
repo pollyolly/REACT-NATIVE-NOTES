@@ -22,3 +22,8 @@
 - [ ] Layout with Flexbox
 - [ ] Images
 - [ ] Color References
+### Interaction
+- [ ] Handling Touches
+- [x] Navigating Between Screens
+- [ ] Animations
+- [ ] Gesture Responder System
