@@ -27,3 +27,5 @@
 - [x] Navigating Between Screens
 - [ ] Animations
 - [ ] Gesture Responder System
+### Inclusion
+- [ ] Accessbility
