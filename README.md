@@ -1,3 +1,6 @@
 - [ ] Core Components
-  - [ ] test
+  - [x] <View>
+  - [ ] <Image>
+  - [ ] <ScrollView>
+  - [x] <TextInput>
 - [x] Testing
