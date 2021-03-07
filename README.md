@@ -32,3 +32,21 @@
 ### Connectivity
 - [x] Networking
 - [ ] Security
+### Native Modules
+- [x] Android Native Modules
+- [ ] IOS Native Modules
+- [ ] Native Modules NPM Package Setup
+### Native Components
+- [x] Android Native UI Components
+- [ ] IOS Native UI Components
+- [ ] Direct Manipulation
+### Guides Android
+- [ ] Headless JS
+- [ ] Publishing to Google Play Store
+- [ ] Removing Default Permission
+### Guides IOS
+- [ ] Linking libraries
+- [ ] Running on Simulator
+- [ ] Communication between native and React Native
+- [ ] App Extension
+
