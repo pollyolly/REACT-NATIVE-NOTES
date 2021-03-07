@@ -29,3 +29,6 @@
 - [ ] Gesture Responder System
 ### Inclusion
 - [ ] Accessbility
+### Connectivity
+- [x] Networking
+- [ ] Security
