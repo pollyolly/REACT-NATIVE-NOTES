@@ -16,3 +16,8 @@
 - [ ] Using ListView
 - [x] Troubleshooting
 - [ ] Platform Specific Code
+### Design
+- [x] Style
+- [x] Height and Width
+- [ ] Layout with Flexbox
+- [ ] Images
