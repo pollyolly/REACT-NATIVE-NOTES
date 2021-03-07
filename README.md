@@ -1,3 +1,4 @@
+### The Basics
 - [ ] Core Components
   - [x] <View>
   - [ ] <Image>
