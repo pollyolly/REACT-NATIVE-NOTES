@@ -1,9 +1,9 @@
 ### The Basics
 - [ ] Core Components
-  - [x] <View>
-  - [ ] <Image>
-  - [ ] <ScrollView>
-  - [x] <TextInput>
+  - [x] View
+  - [ ] Image
+  - [ ] ScrollView
+  - [x] TextInput
 - [x] React Fundamentals
   - [ ] Function Component
   - [x] Class Component
