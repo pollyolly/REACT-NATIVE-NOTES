@@ -3,6 +3,10 @@
   - [ ] <Image>
   - [ ] <ScrollView>
   - [x] <TextInput>
-- [x] First Component
-  - [] Function Component
+- [x] React Fundamentals
+  - [ ] Function Component
   - [x] Class Component
+  - [x] Custom Component
+  - [x] JSX
+  - [x] Props
+  - [x] State
