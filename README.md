@@ -1,18 +1,7 @@
-### M1 Installation
-```
-$brew install node
-$brew install watchman
-```
-Install Xcode Commandline tools
+### Helpful Links
+
+[Setup Development Environment](https://reactnative.dev/docs/environment-setup?os=macos&platform=android&guide=native#android-sdk)
 
 [Xcode Install](https://github.com/pollyolly/FLUTTER-NOTES/wiki/Day2:-IOS-Platform-Setup)
 
-Create React Project
-```
-$npx react-native@latest init ReactQrcode
-```
 
-Check if Installed correctly
-```
-$npx react-native doctor
-```
