@@ -9,5 +9,5 @@ Install Xcode Commandline tools
 
 Create React Project
 ```
-$npx react-native@latest init react-qrcode
+$npx react-native@latest init ReactQrcode
 ```
