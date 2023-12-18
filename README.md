@@ -11,3 +11,8 @@ Create React Project
 ```
 $npx react-native@latest init ReactQrcode
 ```
+
+Check if Installed correctly
+```
+$npx react-native doctor
+```
