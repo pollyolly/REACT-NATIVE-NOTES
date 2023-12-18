@@ -1,4 +1,4 @@
-### Installation
+### M1 Installation
 ```
 $brew install node
 $brew install watchman
