@@ -27,15 +27,9 @@
 - [x] Navigating Between Screens
 - [ ] Animations
 - [ ] Gesture Responder System
-### Inclusion
-- [ ] Accessbility
 ### Connectivity
 - [x] Networking
 - [ ] Security
-### Native Modules
-- [x] Android Native Modules
-- [ ] IOS Native Modules
-- [ ] Native Modules NPM Package Setup
 ### Native Components
 - [x] Android Native UI Components
 - [ ] IOS Native UI Components
