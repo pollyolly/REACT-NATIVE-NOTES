@@ -145,10 +145,6 @@ export default Login;
 
 ### React Native UI Frameworks
 
-[ReactNative Elements](https://reactnativeelements.com/)
-
-[ReactNative Paper](https://reactnativepaper.com/)
-
 [Air Bnb React Native](https://airbnb.io/react-native/releases/0.41/)
 
 [GlueStack UI](https://gluestack.io/)
