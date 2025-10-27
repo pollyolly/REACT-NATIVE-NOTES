@@ -133,18 +133,6 @@ export default Login;
 ```
 ### Helpful Links
 
-[Xcode Install](https://github.com/pollyolly/FLUTTER-NOTES/wiki/Day2:-IOS-Platform-Setup)
-
-### ReactNative Navigation
+[Xcode Installation](https://github.com/pollyolly/FLUTTER-NOTES/wiki/Day2:-IOS-Platform-Setup)
 
 [ReactNative Navigation](https://wix.github.io/react-native-navigation/docs/before-you-start)
-
-### ReactNative Apps
-
-[ReactNative Opensource Apps](https://github.com/pollyolly/React-Native-Apps)
-
-### React Native UI Frameworks
-
-[Air Bnb React Native](https://airbnb.io/react-native/releases/0.41/)
-
-[GlueStack UI](https://gluestack.io/)
